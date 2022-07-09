@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Multiply Of 3 or 5 Task">
-      <change afterPath="$PROJECT_DIR$/src/DetectPangram.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Dectect Pangram">
+      <change afterPath="$PROJECT_DIR$/src/DescendingOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,10 +35,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "com.maddyhome.idea.vim.ui.VimEmulationConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DetectPangram">
+  <component name="RunManager" selected="Application.DescendingOrder">
+    <configuration name="DescendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DescendingOrder" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DetectPangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DetectPangram" />
       <module name="Codewars_Problems" />
@@ -62,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DescendingOrder" />
         <item itemvalue="Application.DetectPangram" />
         <item itemvalue="Application.MultiplyOf3or5" />
         <item itemvalue="Application.Multiply" />
@@ -91,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657298492144</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dectect Pangram">
+      <created>1657310961854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657310961854</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Multiply Of 3 or 5 Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiply Of 3 or 5 Task" />
+    <MESSAGE value="Dectect Pangram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dectect Pangram" />
   </component>
 </project>
