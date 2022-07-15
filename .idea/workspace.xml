@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Greed is Good">
-      <change afterPath="$PROJECT_DIR$/src/HighScoreWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegexPinValidate.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="RegexPinValidate">
+      <change afterPath="$PROJECT_DIR$/src/ListFiltering.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.maddyhome.idea.vim.ui.VimEmulationConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RegexPinValidate">
-    <configuration name="DnaStrand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DnaStrand" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ListFiltering">
     <configuration name="Greed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Greed" />
       <module name="Codewars_Problems" />
@@ -56,6 +48,13 @@
     </configuration>
     <configuration name="HighScoreWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HighScoreWord" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListFiltering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListFiltering" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListFiltering" />
         <item itemvalue="Application.RegexPinValidate" />
         <item itemvalue="Application.HighScoreWord" />
         <item itemvalue="Application.Greed" />
         <item itemvalue="Application.MiddleCharacter" />
-        <item itemvalue="Application.DnaStrand" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657642067644</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="RegexPinValidate">
+      <created>1657814942058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657814942058</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +163,7 @@
     <MESSAGE value="DescendingOrder - Coding Kata" />
     <MESSAGE value="DnaStrand - Kata" />
     <MESSAGE value="Greed is Good" />
-    <option name="LAST_COMMIT_MESSAGE" value="Greed is Good" />
+    <MESSAGE value="RegexPinValidate" />
+    <option name="LAST_COMMIT_MESSAGE" value="RegexPinValidate" />
   </component>
 </project>
