@@ -1,5 +1,6 @@
 public class AbbreviateTwoWords {
     public static String abbrevName(String name) {
+
         StringBuilder result = new StringBuilder();
         result.append(name.charAt(0)).append(".");
         for (int i = 0; i < name.length(); i++) {
