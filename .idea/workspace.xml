@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="HighAndLow">
-      <change afterPath="$PROJECT_DIR$/src/FindOdd.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="FindOdd">
+      <change afterPath="$PROJECT_DIR$/src/AbbreviateTwoWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +41,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindOdd">
-    <configuration name="FindOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindOdd" />
+  <component name="RunManager" selected="Application.AbbreviateTwoWords">
+    <configuration name="AbbreviateTwoWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbbreviateTwoWords" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindUniqueNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindUniqueNumber" />
+    <configuration name="FindOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindOdd" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbbreviateTwoWords" />
         <item itemvalue="Application.FindOdd" />
         <item itemvalue="Application.highAndLow" />
         <item itemvalue="Application.SquareDigit" />
         <item itemvalue="Application.HexToRGB" />
-        <item itemvalue="Application.FindUniqueNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658429801498</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="FindOdd">
+      <created>1658504583523</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658504583524</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +230,7 @@
     <MESSAGE value="HexToRGB" />
     <MESSAGE value="SquareDigit" />
     <MESSAGE value="HighAndLow" />
-    <option name="LAST_COMMIT_MESSAGE" value="HighAndLow" />
+    <MESSAGE value="FindOdd" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindOdd" />
   </component>
 </project>
