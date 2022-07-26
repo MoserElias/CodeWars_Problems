@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Parser">
-      <change afterPath="$PROJECT_DIR$/src/TimeFormatter.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="TimeFormatter">
+      <change afterPath="$PROJECT_DIR$/src/Prime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TimeFormatter">
-    <configuration name="AbbreviateTwoWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbbreviateTwoWords" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Prime">
     <configuration name="HumanReadableTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HumanReadableTime" />
       <module name="Codewars_Problems" />
@@ -58,6 +51,13 @@
     </configuration>
     <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Parser" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prime" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prime" />
         <item itemvalue="Application.TimeFormatter" />
         <item itemvalue="Application.HumanReadableTime" />
         <item itemvalue="Application.Parser" />
         <item itemvalue="Application.SudokuValidator" />
-        <item itemvalue="Application.AbbreviateTwoWords" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658687588602</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="TimeFormatter">
+      <created>1658766216790</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658766216790</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,6 +269,7 @@
     <MESSAGE value="AbbreviateTwoWords" />
     <MESSAGE value="SudokuValidator" />
     <MESSAGE value="Parser" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parser" />
+    <MESSAGE value="TimeFormatter" />
+    <option name="LAST_COMMIT_MESSAGE" value="TimeFormatter" />
   </component>
 </project>
