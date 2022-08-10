@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="ArrayDiff">
-      <change afterPath="$PROJECT_DIR$/src/StringToCamelCase.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="StringToCamelCase">
+      <change afterPath="$PROJECT_DIR$/src/RowSumOddNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Project.color&quot;: &quot;244c38&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "244c38",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/moses/Documents/Ideaprojects",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.StringToCamelCase">
+}]]></component>
+  <component name="RunManager" selected="Application.RowSumOddNumbers">
     <configuration name="ArrayDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDiff" />
       <module name="Codewars_Problems" />
@@ -64,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RowSumOddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RowSumOddNumbers" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringToCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringToCamelCase" />
       <module name="Codewars_Problems" />
@@ -71,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhatCenturyIsIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhatCenturyIsIt" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RowSumOddNumbers" />
         <item itemvalue="Application.StringToCamelCase" />
         <item itemvalue="Application.ArrayDiff" />
         <item itemvalue="Application.CreatePhoneNumber" />
         <item itemvalue="Application.PigLatin" />
-        <item itemvalue="Application.WhatCenturyIsIt" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659630706846</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="StringToCamelCase">
+      <created>1659780968436</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1659780968436</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,7 +330,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DescendingOrder - Coding Kata" />
     <MESSAGE value="DnaStrand - Kata" />
     <MESSAGE value="Greed is Good" />
     <MESSAGE value="RegexPinValidate" />
@@ -347,6 +354,7 @@
     <MESSAGE value="PigLatin" />
     <MESSAGE value="CreatePhoneNumber" />
     <MESSAGE value="ArrayDiff" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayDiff" />
+    <MESSAGE value="StringToCamelCase" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringToCamelCase" />
   </component>
 </project>
