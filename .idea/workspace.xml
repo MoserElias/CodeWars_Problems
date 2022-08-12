@@ -43,7 +43,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaximumSubarraySum">
+  <component name="RunManager" selected="Application.Factorial">
     <configuration name="AbbreviateTwoWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbbreviateTwoWords" />
       <module name="Codewars_Problems" />
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayDiff" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.MaximumSubarraySum" />
         <item itemvalue="Application.AbbreviateTwoWords" />
         <item itemvalue="Application.RowSumOddNumbers" />
         <item itemvalue="Application.StringToCamelCase" />
-        <item itemvalue="Application.ArrayDiff" />
       </list>
     </recent_temporary>
   </component>
