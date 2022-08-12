@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="RowSumOddNumbers">
+      <change afterPath="$PROJECT_DIR$/src/MaximumSubarraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RowSumOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RowSumOddNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +36,21 @@
     "Project.color": "244c38",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/moses/Documents/Ideaprojects",
+    "last_opened_file_path": "/home/moses/Development/Codewars_Problems",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RowSumOddNumbers">
+  <component name="RunManager" selected="Application.MaximumSubarraySum">
+    <configuration name="AbbreviateTwoWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbbreviateTwoWords" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayDiff" />
       <module name="Codewars_Problems" />
@@ -51,15 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreatePhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreatePhoneNumber" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PigLatin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PigLatin" />
+    <configuration name="MaximumSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumSubarraySum" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumSubarraySum" />
+        <item itemvalue="Application.AbbreviateTwoWords" />
         <item itemvalue="Application.RowSumOddNumbers" />
         <item itemvalue="Application.StringToCamelCase" />
         <item itemvalue="Application.ArrayDiff" />
-        <item itemvalue="Application.CreatePhoneNumber" />
-        <item itemvalue="Application.PigLatin" />
       </list>
     </recent_temporary>
   </component>
