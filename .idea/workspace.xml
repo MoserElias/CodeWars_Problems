@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinaryArrayToNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Meeting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BinaryArrayToNumber">
+  <component name="RunManager" selected="Application.Meeting">
     <configuration name="BinaryArrayToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryArrayToNumber" />
       <module name="Codewars_Problems" />
@@ -58,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumSubarraySum" />
+    <configuration name="Meeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Meeting" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Meeting" />
         <item itemvalue="Application.BinaryArrayToNumber" />
         <item itemvalue="Application.OddOrEven" />
         <item itemvalue="Application.NextBiggerNumber" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.MaximumSubarraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660402718047</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="BinaryArrayToNumber">
+      <created>1660403884426</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1660403884426</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,7 +379,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FindUniqueNumber" />
     <MESSAGE value="HexToRGB" />
     <MESSAGE value="SquareDigit" />
     <MESSAGE value="HighAndLow" />
@@ -397,6 +403,7 @@
     <MESSAGE value="Factorial update" />
     <MESSAGE value="NextBiggerNumber" />
     <MESSAGE value="OddOrEven" />
-    <option name="LAST_COMMIT_MESSAGE" value="OddOrEven" />
+    <MESSAGE value="BinaryArrayToNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinaryArrayToNumber" />
   </component>
 </project>
