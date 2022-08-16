@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindOutlier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maskify.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,21 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Project.color": "244c38",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/moses/Development/Codewars_Problems",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Project.color&quot;: &quot;244c38&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/moses/Development/Codewars_Problems&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FindOutlier">
+}</component>
+  <component name="RunManager" selected="Application.Maskify">
     <configuration name="AscendDescend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AscendDescend" />
       <module name="Codewars_Problems" />
@@ -75,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Meeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Meeting" />
+    <configuration name="Maskify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maskify" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maskify" />
         <item itemvalue="Application.FindOutlier" />
         <item itemvalue="Application.LengthAndTwoValues" />
         <item itemvalue="Application.AscendDescend" />
         <item itemvalue="Application.Isograms" />
-        <item itemvalue="Application.Meeting" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660566683230</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="FindOutlier">
+      <created>1660568307297</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1660568307297</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AbbreviateTwoWords" />
     <MESSAGE value="SudokuValidator" />
     <MESSAGE value="Parser" />
     <MESSAGE value="TimeFormatter" />
@@ -442,6 +447,7 @@
     <MESSAGE value="Isograms" />
     <MESSAGE value="AscendDescend" />
     <MESSAGE value="LengthAndTwoValues" />
-    <option name="LAST_COMMIT_MESSAGE" value="LengthAndTwoValues" />
+    <MESSAGE value="FindOutlier" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindOutlier" />
   </component>
 </project>
