@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="DuplicateEncoder">
-      <change afterPath="$PROJECT_DIR$/src/MaxProduct.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="MaxProduct.java">
+      <change afterPath="$PROJECT_DIR$/src/YourOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaxProduct">
+  <component name="RunManager" selected="Application.YourOrder">
     <configuration name="DuplicateEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateEncoder" />
       <module name="Codewars_Problems" />
@@ -55,13 +55,6 @@
     </configuration>
     <configuration name="FindOutlier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindOutlier" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LengthAndTwoValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LengthAndTwoValues" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="YourOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YourOrder" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.YourOrder" />
         <item itemvalue="Application.MaxProduct" />
         <item itemvalue="Application.DuplicateEncoder" />
         <item itemvalue="Application.Maskify" />
         <item itemvalue="Application.FindOutlier" />
-        <item itemvalue="Application.LengthAndTwoValues" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660627413763</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="MaxProduct.java">
+      <created>1661262337335</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1661262337335</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TimeFormatter" />
     <MESSAGE value="Prime" />
     <MESSAGE value="CountingDuplicates" />
     <MESSAGE value="BitCounting" />
@@ -462,6 +468,7 @@
     <MESSAGE value="FindOutlier" />
     <MESSAGE value="Maskify" />
     <MESSAGE value="DuplicateEncoder" />
-    <option name="LAST_COMMIT_MESSAGE" value="DuplicateEncoder" />
+    <MESSAGE value="MaxProduct.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaxProduct.java" />
   </component>
 </project>
