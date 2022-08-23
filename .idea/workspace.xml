@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Maskify">
-      <change afterPath="$PROJECT_DIR$/src/DuplicateEncoder.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="DuplicateEncoder">
+      <change afterPath="$PROJECT_DIR$/src/MaxProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DuplicateEncoder">
-    <configuration name="AscendDescend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AscendDescend" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaxProduct">
     <configuration name="DuplicateEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateEncoder" />
       <module name="Codewars_Problems" />
@@ -81,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxProduct" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxProduct" />
         <item itemvalue="Application.DuplicateEncoder" />
         <item itemvalue="Application.Maskify" />
         <item itemvalue="Application.FindOutlier" />
         <item itemvalue="Application.LengthAndTwoValues" />
-        <item itemvalue="Application.AscendDescend" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660626197172</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="DuplicateEncoder">
+      <created>1660627413763</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1660627413763</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Parser" />
     <MESSAGE value="TimeFormatter" />
     <MESSAGE value="Prime" />
     <MESSAGE value="CountingDuplicates" />
@@ -455,6 +461,7 @@
     <MESSAGE value="LengthAndTwoValues" />
     <MESSAGE value="FindOutlier" />
     <MESSAGE value="Maskify" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maskify" />
+    <MESSAGE value="DuplicateEncoder" />
+    <option name="LAST_COMMIT_MESSAGE" value="DuplicateEncoder" />
   </component>
 </project>
