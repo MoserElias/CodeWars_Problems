@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="MaxProduct.java">
-      <change afterPath="$PROJECT_DIR$/src/AscendDescend.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreatePhoneNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VowelCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VowelsCount.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="VowelCount">
+      <change afterPath="$PROJECT_DIR$/src/SortTheOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreatePhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreatePhoneNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +46,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VowelCount">
+  <component name="RunManager" selected="Application.SortTheOdd">
     <configuration name="DuplicateEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateEncoder" />
       <module name="Codewars_Problems" />
@@ -58,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maskify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Maskify" />
+    <configuration name="MaxProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxProduct" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxProduct" />
+    <configuration name="SortTheOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortTheOdd" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortTheOdd" />
         <item itemvalue="Application.VowelCount" />
         <item itemvalue="Application.YourOrder" />
         <item itemvalue="Application.MaxProduct" />
         <item itemvalue="Application.DuplicateEncoder" />
-        <item itemvalue="Application.Maskify" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661262337335</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="VowelCount">
+      <created>1661586080189</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1661586080189</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -450,7 +453,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Prime" />
     <MESSAGE value="CountingDuplicates" />
     <MESSAGE value="BitCounting" />
     <MESSAGE value="ValidParentheses" />
@@ -475,6 +477,7 @@
     <MESSAGE value="Maskify" />
     <MESSAGE value="DuplicateEncoder" />
     <MESSAGE value="MaxProduct.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="MaxProduct.java" />
+    <MESSAGE value="VowelCount" />
+    <option name="LAST_COMMIT_MESSAGE" value="VowelCount" />
   </component>
 </project>
