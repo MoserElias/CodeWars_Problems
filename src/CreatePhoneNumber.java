@@ -16,6 +16,8 @@ public class CreatePhoneNumber {
                 p3.append(numbers[i]);
             }
         }
+
+
         String result = "";
         result = "(" + p1.toString() + ")" + " " + p2.toString() + "-" + p3.toString();
         return result;
