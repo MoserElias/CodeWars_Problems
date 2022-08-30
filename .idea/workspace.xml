@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="RemoveVowels">
-      <change afterPath="$PROJECT_DIR$/src/BreakCamelCase.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="BreakCamelCase">
+      <change afterPath="$PROJECT_DIR$/src/Accumul.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,22 +31,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Project.color&quot;: &quot;244c38&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/moses/Development/Codewars_Problems&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Project.color": "244c38",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/moses/Development/Codewars_Problems",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.BreakCamelCase">
+}]]></component>
+  <component name="RunManager" selected="Application.Accumul">
+    <configuration name="Accumul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Accumul" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BreakCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakCamelCase" />
       <module name="Codewars_Problems" />
@@ -68,13 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VowelCount" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Zeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zeros" />
       <module name="Codewars_Problems" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Accumul" />
         <item itemvalue="Application.BreakCamelCase" />
         <item itemvalue="Application.RemoveVowels" />
         <item itemvalue="Application.Zeros" />
         <item itemvalue="Application.SortTheOdd" />
-        <item itemvalue="Application.VowelCount" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Dectect Pangram">
-      <created>1657310961854</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1657310961854</updated>
     </task>
     <task id="LOCAL-00004" summary="DescendingOrder - Coding Kata">
       <created>1657360633750</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661778411214</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="BreakCamelCase">
+      <created>1661841931364</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1661841931365</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="DRoot" />
     <MESSAGE value="Spacify" />
     <MESSAGE value="PigLatin" />
     <MESSAGE value="CreatePhoneNumber" />
@@ -485,6 +484,7 @@
     <MESSAGE value="SortTheOdd" />
     <MESSAGE value="Zeros" />
     <MESSAGE value="RemoveVowels" />
-    <option name="LAST_COMMIT_MESSAGE" value="RemoveVowels" />
+    <MESSAGE value="BreakCamelCase" />
+    <option name="LAST_COMMIT_MESSAGE" value="BreakCamelCase" />
   </component>
 </project>
