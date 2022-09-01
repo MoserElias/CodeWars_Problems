@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Accumul">
-      <change afterPath="$PROJECT_DIR$/src/TowerBuilder.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="TowerBuilder">
+      <change afterPath="$PROJECT_DIR$/src/NumbersInOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SmallEnough.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TowerBuilder">
+  <component name="RunManager" selected="Application.NumbersInOrder">
     <configuration name="Accumul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Accumul" />
       <module name="Codewars_Problems" />
@@ -61,8 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveVowels" />
+    <configuration name="NumbersInOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumbersInOrder" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallEnough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmallEnough" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,20 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zeros" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumbersInOrder" />
+        <item itemvalue="Application.SmallEnough" />
         <item itemvalue="Application.TowerBuilder" />
         <item itemvalue="Application.Accumul" />
         <item itemvalue="Application.BreakCamelCase" />
-        <item itemvalue="Application.RemoveVowels" />
-        <item itemvalue="Application.Zeros" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +101,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00005" summary="DnaStrand - Kata">
-      <created>1657452019764</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1657452019764</updated>
     </task>
     <task id="LOCAL-00006" summary="Greed is Good">
       <created>1657642067642</created>
@@ -444,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661868136760</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="TowerBuilder">
+      <created>1661963281074</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1661963281074</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +461,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="PigLatin" />
     <MESSAGE value="CreatePhoneNumber" />
     <MESSAGE value="ArrayDiff" />
     <MESSAGE value="StringToCamelCase" />
@@ -485,6 +485,7 @@
     <MESSAGE value="RemoveVowels" />
     <MESSAGE value="BreakCamelCase" />
     <MESSAGE value="Accumul" />
-    <option name="LAST_COMMIT_MESSAGE" value="Accumul" />
+    <MESSAGE value="TowerBuilder" />
+    <option name="LAST_COMMIT_MESSAGE" value="TowerBuilder" />
   </component>
 </project>
