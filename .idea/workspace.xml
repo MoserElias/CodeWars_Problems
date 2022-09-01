@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="TowerBuilder">
-      <change afterPath="$PROJECT_DIR$/src/NumbersInOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SmallEnough.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Katas from 01.09.22">
+      <change afterPath="$PROJECT_DIR$/src/RgbToHex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumbersInOrder">
+  <component name="RunManager" selected="Application.RgbToHex">
     <configuration name="Accumul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Accumul" />
       <module name="Codewars_Problems" />
@@ -55,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakCamelCase" />
+    <configuration name="NumbersInOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumbersInOrder" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumbersInOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumbersInOrder" />
+    <configuration name="RgbToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RgbToHex" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RgbToHex" />
         <item itemvalue="Application.NumbersInOrder" />
         <item itemvalue="Application.SmallEnough" />
         <item itemvalue="Application.TowerBuilder" />
         <item itemvalue="Application.Accumul" />
-        <item itemvalue="Application.BreakCamelCase" />
       </list>
     </recent_temporary>
   </component>
@@ -101,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Greed is Good">
-      <created>1657642067642</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1657642067644</updated>
     </task>
     <task id="LOCAL-00007" summary="RegexPinValidate">
       <created>1657814942058</created>
@@ -445,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661963281074</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Katas from 01.09.22">
+      <created>1662011336204</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1662011336204</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CreatePhoneNumber" />
     <MESSAGE value="ArrayDiff" />
     <MESSAGE value="StringToCamelCase" />
     <MESSAGE value="RowSumOddNumbers" />
@@ -486,6 +484,7 @@
     <MESSAGE value="BreakCamelCase" />
     <MESSAGE value="Accumul" />
     <MESSAGE value="TowerBuilder" />
-    <option name="LAST_COMMIT_MESSAGE" value="TowerBuilder" />
+    <MESSAGE value="Katas from 01.09.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Katas from 01.09.22" />
   </component>
 </project>
