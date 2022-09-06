@@ -2,7 +2,6 @@ public class StringIncrement {
 
     public static String incrementString(String str) {
         StringBuilder result = new StringBuilder();
-
         //check case if no number is in string
         if (!Character.isDigit(str.charAt(str.length() - 1))) {
             for (int i = 0; i < str.length(); i++) {
@@ -19,7 +18,6 @@ public class StringIncrement {
             int num = Integer.parseInt(myNumber.toString());
             num++;
             String numberToInsert = Integer.toString(num);
-            System.out.println(numberToInsert);
 
             //build the new string
             int index = 0;
@@ -34,13 +32,12 @@ public class StringIncrement {
                     }
                 }
             }
-
         }
         return result.toString();
     }
 
 
     public static void main(String[] args) {
-        System.out.println(incrementString("foobar00"));
+        System.out.println(incrementString("foobar23"));
     }
 }
