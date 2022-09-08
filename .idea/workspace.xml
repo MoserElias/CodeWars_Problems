@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Coding Katas 02.09">
-      <change afterPath="$PROJECT_DIR$/src/FindShortestWord.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="FindShortestWord">
+      <change afterPath="$PROJECT_DIR$/src/FactorialKata.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringIncrement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +46,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindShortestWord">
+  <component name="RunManager" selected="Application.FactorialKata">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactorialKata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactorialKata" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindShortestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindShortestWord" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumbersInOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumbersInOrder" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RgbToHex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RgbToHex" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialKata" />
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.FindShortestWord" />
         <item itemvalue="Application.StringIncrement" />
         <item itemvalue="Application.YesOrNo" />
-        <item itemvalue="Application.RgbToHex" />
-        <item itemvalue="Application.NumbersInOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -101,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00009" summary="HumanReadableTime">
-      <created>1657919053155</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1657919053155</updated>
     </task>
     <task id="LOCAL-00010" summary="Readme and NumberExpend">
       <created>1658045629050</created>
@@ -445,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662096911198</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="FindShortestWord">
+      <created>1662461686352</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1662461686353</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="RowSumOddNumbers" />
     <MESSAGE value="MaximumSubarraySum" />
     <MESSAGE value="Factorial" />
     <MESSAGE value="Factorial update" />
@@ -486,6 +484,7 @@
     <MESSAGE value="Katas from 01.09.22" />
     <MESSAGE value="RgbToHex" />
     <MESSAGE value="Coding Katas 02.09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coding Katas 02.09" />
+    <MESSAGE value="FindShortestWord" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindShortestWord" />
   </component>
 </project>
