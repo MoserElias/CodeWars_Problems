@@ -13,3 +13,5 @@ class VowelCount {
         System.out.println(getCount("o a kak ushakov lil vo kashu kakao"));
     }
 }
+
+
