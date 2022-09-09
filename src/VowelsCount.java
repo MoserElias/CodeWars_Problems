@@ -7,11 +7,10 @@ class VowelCount {
             }
         }
         return count;
+
     }
 
     public static void main(String[] args) {
         System.out.println(getCount("o a kak ushakov lil vo kashu kakao"));
     }
 }
-
-
