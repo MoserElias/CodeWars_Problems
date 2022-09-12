@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Square">
-      <change afterPath="$PROJECT_DIR$/src/PerfectPower.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="PerfectPower">
+      <change afterPath="$PROJECT_DIR$/src/Scramblies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,16 +46,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PerfectPower">
-    <configuration name="FactorialKata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorialKata" />
+  <component name="RunManager" selected="Application.Scramblies">
+    <configuration name="PerfectPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerfectPower" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerfectPower" />
+    <configuration name="Scramblies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scramblies" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scramblies" />
         <item itemvalue="Application.PerfectPower" />
         <item itemvalue="Application.Square" />
         <item itemvalue="Application.Snail" />
         <item itemvalue="Application.VowelCount" />
-        <item itemvalue="Application.FactorialKata" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00014" summary="HighAndLow">
-      <created>1658429801498</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1658429801498</updated>
     </task>
     <task id="LOCAL-00015" summary="FindOdd">
       <created>1658504583523</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662806471776</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="PerfectPower">
+      <created>1662921478972</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1662921478973</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="OddOrEven" />
     <MESSAGE value="BinaryArrayToNumber" />
     <MESSAGE value="Meeting Coding Kata" />
     <MESSAGE value="Isograms" />
@@ -485,6 +484,7 @@
     <MESSAGE value="SecureTester" />
     <MESSAGE value="Snail" />
     <MESSAGE value="Square" />
-    <option name="LAST_COMMIT_MESSAGE" value="Square" />
+    <MESSAGE value="PerfectPower" />
+    <option name="LAST_COMMIT_MESSAGE" value="PerfectPower" />
   </component>
 </project>
