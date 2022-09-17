@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="RemoveDuplicateWords">
-      <change afterPath="$PROJECT_DIR$/src/Metro.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Metro, count passengers">
+      <change afterPath="$PROJECT_DIR$/src/SumOfInterval.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,16 +46,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Metro">
+  <component name="RunManager" selected="Application.SumOfInterval">
     <configuration name="Metro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Metro" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerfectPower" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,13 +75,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfInterval" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfInterval" />
         <item itemvalue="Application.Metro" />
         <item itemvalue="Application.RemoveDuplicateWords" />
         <item itemvalue="Application.PickPeaks" />
         <item itemvalue="Application.Scramblies" />
-        <item itemvalue="Application.PerfectPower" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00017" summary="AbbreviateTwoWords">
-      <created>1658505862249</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1658505862249</updated>
     </task>
     <task id="LOCAL-00018" summary="SudokuValidator">
       <created>1658571489666</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663245464432</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Metro, count passengers">
+      <created>1663357633379</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1663357633380</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Isograms" />
     <MESSAGE value="AscendDescend" />
     <MESSAGE value="LengthAndTwoValues" />
     <MESSAGE value="FindOutlier" />
@@ -485,6 +484,7 @@
     <MESSAGE value="PerfectPower" />
     <MESSAGE value="PickPeaks" />
     <MESSAGE value="RemoveDuplicateWords" />
-    <option name="LAST_COMMIT_MESSAGE" value="RemoveDuplicateWords" />
+    <MESSAGE value="Metro, count passengers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Metro, count passengers" />
   </component>
 </project>
