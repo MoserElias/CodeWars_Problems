@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Metro, count passengers">
-      <change afterPath="$PROJECT_DIR$/src/SumOfInterval.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Sum Of Interval">
+      <change afterPath="$PROJECT_DIR$/src/HandshakeProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfInterval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumOfInterval">
+  <component name="RunManager" selected="Application.HandshakeProblem">
+    <configuration name="HandshakeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HandshakeProblem" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Metro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Metro" />
       <module name="Codewars_Problems" />
@@ -68,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scramblies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scramblies" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumOfInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfInterval" />
       <module name="Codewars_Problems" />
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HandshakeProblem" />
         <item itemvalue="Application.SumOfInterval" />
         <item itemvalue="Application.Metro" />
         <item itemvalue="Application.RemoveDuplicateWords" />
         <item itemvalue="Application.PickPeaks" />
-        <item itemvalue="Application.Scramblies" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +101,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00018" summary="SudokuValidator">
-      <created>1658571489666</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1658571489666</updated>
     </task>
     <task id="LOCAL-00019" summary="Parser">
       <created>1658687588602</created>
@@ -444,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663357633380</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Sum Of Interval">
+      <created>1663402724747</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1663402724748</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +461,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="AscendDescend" />
     <MESSAGE value="LengthAndTwoValues" />
     <MESSAGE value="FindOutlier" />
     <MESSAGE value="Maskify" />
@@ -485,6 +485,7 @@
     <MESSAGE value="PickPeaks" />
     <MESSAGE value="RemoveDuplicateWords" />
     <MESSAGE value="Metro, count passengers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Metro, count passengers" />
+    <MESSAGE value="Sum Of Interval" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum Of Interval" />
   </component>
 </project>
