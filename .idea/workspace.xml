@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="TriangleTester">
-      <change afterPath="$PROJECT_DIR$/src/SumPostiveNegative.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="SumPostiveNegative">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumPostiveNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumPostiveNegative.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Prime">
-      <created>1658851753431</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1658851753431</updated>
     </task>
     <task id="LOCAL-00022" summary="CountingDuplicates">
       <created>1658938434998</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663656443618</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="SumPostiveNegative">
+      <created>1663837037812</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1663837037813</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Maskify" />
     <MESSAGE value="DuplicateEncoder" />
     <MESSAGE value="MaxProduct.java" />
     <MESSAGE value="VowelCount" />
@@ -485,6 +484,7 @@
     <MESSAGE value="Sum Of Interval" />
     <MESSAGE value="HandshakeProblem" />
     <MESSAGE value="TriangleTester" />
-    <option name="LAST_COMMIT_MESSAGE" value="TriangleTester" />
+    <MESSAGE value="SumPostiveNegative" />
+    <option name="LAST_COMMIT_MESSAGE" value="SumPostiveNegative" />
   </component>
 </project>

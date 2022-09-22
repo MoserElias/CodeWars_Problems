@@ -3,9 +3,16 @@ import java.util.Arrays;
 public class SumPostiveNegative {
 
     public static int[] countPositivesSumNegatives(int[] input) {
+        int[] result = new int[0];
 
-        if (input.length <= 0) {
-            return null;
+        if(input == null) {
+            return result;
+        }
+
+        if (input.length == 0) {
+            return result;
+        } else {
+            result = new int[2];
         }
 
         int countPositives = 0;
@@ -16,11 +23,8 @@ public class SumPostiveNegative {
                 countPositives++;
             } else if (input[i] < 0) {
                 sumNegative += input[i];
-            } else {
-                return null;
             }
         }
-        int[] result = new int[2];
 
         result[0] = countPositives;
         result[1] = sumNegative;
@@ -29,6 +33,6 @@ public class SumPostiveNegative {
 
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(countPositivesSumNegatives(new int[]{0, 2, 3, 0, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14})));
+        System.out.println(Arrays.toString(countPositivesSumNegatives(null)));
     }
 }
