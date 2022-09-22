@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="SumPostiveNegative">
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/GenerateShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SumPostiveNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumPostiveNegative.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +46,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumPositiveNegative">
-    <configuration name="HandshakeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HandshakeProblem" />
+  <component name="RunManager" selected="Application.GenerateShape">
+    <configuration name="GenerateShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateShape" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Metro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Metro" />
+    <configuration name="HandshakeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HandshakeProblem" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenerateShape" />
         <item itemvalue="Application.SumPositiveNegative" />
         <item itemvalue="Application.TriangleTester" />
         <item itemvalue="Application.HandshakeProblem" />
         <item itemvalue="Application.SumOfInterval" />
-        <item itemvalue="Application.Metro" />
       </list>
     </recent_temporary>
   </component>
@@ -100,20 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00022" summary="CountingDuplicates">
-      <created>1658938434998</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1658938434998</updated>
-    </task>
-    <task id="LOCAL-00023" summary="BitCounting">
-      <created>1659021747188</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1659021747188</updated>
     </task>
     <task id="LOCAL-00024" summary="ValidParentheses">
       <created>1659024384236</created>
@@ -444,7 +430,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663837037813</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="SumPostiveNegative update">
+      <created>1663838575457</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1663838575457</updated>
+    </task>
+    <task id="LOCAL-00072" summary="update">
+      <created>1663838587957</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1663838587957</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,8 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="DuplicateEncoder" />
-    <MESSAGE value="MaxProduct.java" />
     <MESSAGE value="VowelCount" />
     <MESSAGE value="SortTheOdd" />
     <MESSAGE value="Zeros" />
@@ -485,6 +483,8 @@
     <MESSAGE value="HandshakeProblem" />
     <MESSAGE value="TriangleTester" />
     <MESSAGE value="SumPostiveNegative" />
-    <option name="LAST_COMMIT_MESSAGE" value="SumPostiveNegative" />
+    <MESSAGE value="SumPostiveNegative update" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
