@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumPostiveNegative">
+  <component name="RunManager" selected="Application.SumPositiveNegative">
     <configuration name="HandshakeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HandshakeProblem" />
       <module name="Codewars_Problems" />
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumPostiveNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumPostiveNegative" />
+    <configuration name="SumPositiveNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumPositiveNegative" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,7 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumPostiveNegative" />
+        <item itemvalue="Application.SumPositiveNegative" />
         <item itemvalue="Application.TriangleTester" />
         <item itemvalue="Application.HandshakeProblem" />
         <item itemvalue="Application.SumOfInterval" />

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SumPostiveNegative {
+public class SumPositiveNegative {
 
     public static int[] countPositivesSumNegatives(int[] input) {
         int[] result = new int[0];
