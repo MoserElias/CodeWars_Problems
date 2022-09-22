@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="HandshakeProblem">
-      <change afterPath="$PROJECT_DIR$/src/TriangleTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HandshakeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HandshakeProblem.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="TriangleTester">
+      <change afterPath="$PROJECT_DIR$/src/SumPostiveNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TriangleTester">
+  <component name="RunManager" selected="Application.SumPostiveNegative">
     <configuration name="HandshakeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HandshakeProblem" />
       <module name="Codewars_Problems" />
@@ -61,15 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicateWords" />
+    <configuration name="SumOfInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfInterval" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfInterval" />
+    <configuration name="SumPostiveNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumPostiveNegative" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumPostiveNegative" />
         <item itemvalue="Application.TriangleTester" />
         <item itemvalue="Application.HandshakeProblem" />
         <item itemvalue="Application.SumOfInterval" />
         <item itemvalue="Application.Metro" />
-        <item itemvalue="Application.RemoveDuplicateWords" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00020" summary="TimeFormatter">
-      <created>1658766216790</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1658766216790</updated>
     </task>
     <task id="LOCAL-00021" summary="Prime">
       <created>1658851753431</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663655799763</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="TriangleTester">
+      <created>1663656443617</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1663656443618</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="FindOutlier" />
     <MESSAGE value="Maskify" />
     <MESSAGE value="DuplicateEncoder" />
     <MESSAGE value="MaxProduct.java" />
@@ -485,6 +484,7 @@
     <MESSAGE value="Metro, count passengers" />
     <MESSAGE value="Sum Of Interval" />
     <MESSAGE value="HandshakeProblem" />
-    <option name="LAST_COMMIT_MESSAGE" value="HandshakeProblem" />
+    <MESSAGE value="TriangleTester" />
+    <option name="LAST_COMMIT_MESSAGE" value="TriangleTester" />
   </component>
 </project>
