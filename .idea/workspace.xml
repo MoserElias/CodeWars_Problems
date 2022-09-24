@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="GenerateShape">
-      <change afterPath="$PROJECT_DIR$/src/SumOfNumbers.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="SumOfNumbers">
+      <change afterPath="$PROJECT_DIR$/src/CamelCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,16 +46,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumOfNumbers">
-    <configuration name="GenerateShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GenerateShape" />
+  <component name="RunManager" selected="Application.CamelCase">
+    <configuration name="CamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CamelCase" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandshakeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HandshakeProblem" />
+    <configuration name="GenerateShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateShape" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CamelCase" />
         <item itemvalue="Application.SumOfNumbers" />
         <item itemvalue="Application.GenerateShape" />
         <item itemvalue="Application.SumPositiveNegative" />
         <item itemvalue="Application.TriangleTester" />
-        <item itemvalue="Application.HandshakeProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00025" summary="DRoot">
-      <created>1659099975744</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1659099975744</updated>
     </task>
     <task id="LOCAL-00026" summary="Spacify">
       <created>1659111317879</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663864777292</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="SumOfNumbers">
+      <created>1663920690478</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1663920690479</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="SortTheOdd" />
     <MESSAGE value="Zeros" />
     <MESSAGE value="RemoveVowels" />
     <MESSAGE value="BreakCamelCase" />
@@ -485,6 +484,7 @@
     <MESSAGE value="SumPostiveNegative update" />
     <MESSAGE value="update" />
     <MESSAGE value="GenerateShape" />
-    <option name="LAST_COMMIT_MESSAGE" value="GenerateShape" />
+    <MESSAGE value="SumOfNumbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="SumOfNumbers" />
   </component>
 </project>
