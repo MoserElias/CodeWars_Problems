@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="ConvertToBinary">
-      <change afterPath="$PROJECT_DIR$/src/Dinglemouse.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Dinglemouse">
+      <change afterPath="$PROJECT_DIR$/src/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Dinglemouse">
+  <component name="RunManager" selected="Application.Subsets">
     <configuration name="ConvertToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConvertToBinary" />
       <module name="Codewars_Problems" />
@@ -68,13 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NameTheNumber" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReverseWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseWords" />
       <module name="Codewars_Problems" />
@@ -82,13 +75,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subsets" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Subsets" />
         <item itemvalue="Application.Dinglemouse" />
         <item itemvalue="Application.ConvertToBinary" />
         <item itemvalue="Application.MultiTable" />
         <item itemvalue="Application.ReverseWords" />
-        <item itemvalue="Application.NameTheNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00032" summary="RowSumOddNumbers">
-      <created>1660136333378</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1660136333378</updated>
     </task>
     <task id="LOCAL-00033" summary="MaximumSubarraySum">
       <created>1660283532046</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665313995191</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Dinglemouse">
+      <created>1665314573138</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1665314573139</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="RgbToHex" />
     <MESSAGE value="Coding Katas 02.09" />
     <MESSAGE value="FindShortestWord" />
     <MESSAGE value="Factorial Recursive" />
@@ -485,6 +484,7 @@
     <MESSAGE value="ReverseWords" />
     <MESSAGE value="MultiTable" />
     <MESSAGE value="ConvertToBinary" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConvertToBinary" />
+    <MESSAGE value="Dinglemouse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dinglemouse" />
   </component>
 </project>
