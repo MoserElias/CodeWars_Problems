@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Dinglemouse">
-      <change afterPath="$PROJECT_DIR$/src/SumOfPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZywOo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,14 +40,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/elias/Development/Codewars_Problems",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "/home/moses/Development/Codewars_Problems",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfPositive">
+  <component name="RunManager" selected="Application.ZywOo">
     <configuration name="ConvertToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConvertToBinary" />
       <module name="Codewars_Problems" />
@@ -57,13 +57,6 @@
     </configuration>
     <configuration name="Dinglemouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dinglemouse" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiTable" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,13 +76,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZywOo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZywOo" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZywOo" />
         <item itemvalue="Application.SumOfPositive" />
         <item itemvalue="Application.Subsets" />
         <item itemvalue="Application.Dinglemouse" />
         <item itemvalue="Application.ConvertToBinary" />
-        <item itemvalue="Application.MultiTable" />
       </list>
     </recent_temporary>
   </component>
