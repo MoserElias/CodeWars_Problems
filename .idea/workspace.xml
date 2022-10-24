@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Dinglemouse">
-      <change afterPath="$PROJECT_DIR$/src/ZywOo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Calc Sum Coding Kata">
+      <change afterPath="$PROJECT_DIR$/src/ProdFib.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +46,16 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ZywOo">
-    <configuration name="ConvertToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertToBinary" />
+  <component name="RunManager" selected="Application.ProdFib">
+    <configuration name="Dinglemouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dinglemouse" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dinglemouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dinglemouse" />
+    <configuration name="ProdFib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProdFib" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProdFib" />
         <item itemvalue="Application.ZywOo" />
         <item itemvalue="Application.SumOfPositive" />
         <item itemvalue="Application.Subsets" />
         <item itemvalue="Application.Dinglemouse" />
-        <item itemvalue="Application.ConvertToBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -101,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00033" summary="MaximumSubarraySum">
-      <created>1660283532046</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1660283532046</updated>
     </task>
     <task id="LOCAL-00034" summary="Factorial">
       <created>1660283794870</created>
@@ -445,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665314573139</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Calc Sum Coding Kata">
+      <created>1666476578557</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1666476578558</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Coding Katas 02.09" />
     <MESSAGE value="FindShortestWord" />
     <MESSAGE value="Factorial Recursive" />
     <MESSAGE value="SecureTester" />
@@ -486,6 +484,7 @@
     <MESSAGE value="MultiTable" />
     <MESSAGE value="ConvertToBinary" />
     <MESSAGE value="Dinglemouse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dinglemouse" />
+    <MESSAGE value="Calc Sum Coding Kata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calc Sum Coding Kata" />
   </component>
 </project>
