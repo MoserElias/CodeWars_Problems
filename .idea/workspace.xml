@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="ProdFib">
-      <change afterPath="$PROJECT_DIR$/src/NthSmallestElement.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="NthSmallestElement">
+      <change afterPath="$PROJECT_DIR$/src/StringEndsWith.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NthSmallestElement">
+  <component name="RunManager" selected="Application.StringEndsWith">
     <configuration name="NthSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NthSmallestElement" />
       <module name="Codewars_Problems" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Subsets" />
+    <configuration name="StringEndsWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringEndsWith" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringEndsWith" />
         <item itemvalue="Application.NthSmallestElement" />
         <item itemvalue="Application.ProdFib" />
         <item itemvalue="Application.ZywOo" />
         <item itemvalue="Application.SumOfPositive" />
-        <item itemvalue="Application.Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +100,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Factorial update">
-      <created>1660283989140</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1660283989140</updated>
     </task>
     <task id="LOCAL-00036" summary="NextBiggerNumber">
       <created>1660287224983</created>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666591856544</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="NthSmallestElement">
+      <created>1666681413992</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1666681413993</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Factorial Recursive" />
     <MESSAGE value="SecureTester" />
     <MESSAGE value="Snail" />
     <MESSAGE value="Square" />
@@ -485,6 +484,7 @@
     <MESSAGE value="Dinglemouse" />
     <MESSAGE value="Calc Sum Coding Kata" />
     <MESSAGE value="ProdFib" />
-    <option name="LAST_COMMIT_MESSAGE" value="ProdFib" />
+    <MESSAGE value="NthSmallestElement" />
+    <option name="LAST_COMMIT_MESSAGE" value="NthSmallestElement" />
   </component>
 </project>
