@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="NthSmallestElement">
-      <change afterPath="$PROJECT_DIR$/src/StringEndsWith.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="StringEndsWith">
+      <change afterPath="$PROJECT_DIR$/.fleet/run.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnoughIsEnough.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringEndsWith">
+  <component name="RunManager" selected="Application.EnoughIsEnough">
+    <configuration name="EnoughIsEnough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnoughIsEnough" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NthSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NthSmallestElement" />
       <module name="Codewars_Problems" />
@@ -68,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfPositive" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ZywOo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ZywOo" />
       <module name="Codewars_Problems" />
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnoughIsEnough" />
         <item itemvalue="Application.StringEndsWith" />
         <item itemvalue="Application.NthSmallestElement" />
         <item itemvalue="Application.ProdFib" />
         <item itemvalue="Application.ZywOo" />
-        <item itemvalue="Application.SumOfPositive" />
       </list>
     </recent_temporary>
   </component>
@@ -100,13 +101,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00036" summary="NextBiggerNumber">
-      <created>1660287224983</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1660287224983</updated>
     </task>
     <task id="LOCAL-00037" summary="OddOrEven">
       <created>1660402718047</created>
@@ -444,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666681413993</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="StringEndsWith">
+      <created>1666797597837</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1666797597837</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +461,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="SecureTester" />
     <MESSAGE value="Snail" />
     <MESSAGE value="Square" />
     <MESSAGE value="PerfectPower" />
@@ -485,6 +485,7 @@
     <MESSAGE value="Calc Sum Coding Kata" />
     <MESSAGE value="ProdFib" />
     <MESSAGE value="NthSmallestElement" />
-    <option name="LAST_COMMIT_MESSAGE" value="NthSmallestElement" />
+    <MESSAGE value="StringEndsWith" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringEndsWith" />
   </component>
 </project>
