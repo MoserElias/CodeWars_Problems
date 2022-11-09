@@ -22,6 +22,6 @@ public class DuplicateEncoder {
 
 
     public static void main(String[] args) {
-        System.out.println(encode("(( @"));
+        System.out.println(encode("Prespecialized"));
     }
 }
