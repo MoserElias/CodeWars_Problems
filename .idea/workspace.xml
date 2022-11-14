@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="EnoughIsEnough">
-      <change afterPath="$PROJECT_DIR$/src/Persist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BallotsCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DuplicateEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateEncoder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Persist">
+  <component name="RunManager" selected="Application.BallotsCounter">
+    <configuration name="BallotsCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BallotsCounter" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DuplicateEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateEncoder" />
       <module name="Codewars_Problems" />
@@ -57,13 +63,6 @@
     </configuration>
     <configuration name="EnoughIsEnough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnoughIsEnough" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NthSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NthSmallestElement" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BallotsCounter" />
         <item itemvalue="Application.Persist" />
         <item itemvalue="Application.DuplicateEncoder" />
         <item itemvalue="Application.EnoughIsEnough" />
         <item itemvalue="Application.StringEndsWith" />
-        <item itemvalue="Application.NthSmallestElement" />
       </list>
     </recent_temporary>
   </component>
