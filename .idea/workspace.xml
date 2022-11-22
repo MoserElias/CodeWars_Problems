@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="EnoughIsEnough">
-      <change afterPath="$PROJECT_DIR$/src/BinaryAddition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="BinaryAddition">
+      <change afterPath="$PROJECT_DIR$/src/HighestProfit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.BinaryAddition">
+  <component name="RunManager" selected="Application.HighestProfit">
     <configuration name="BallotsCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BallotsCounter" />
       <module name="Codewars_Problems" />
@@ -62,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnoughIsEnough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnoughIsEnough" />
+    <configuration name="HighestProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HighestProfit" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HighestProfit" />
         <item itemvalue="Application.BinaryAddition" />
         <item itemvalue="Application.BallotsCounter" />
         <item itemvalue="Application.Persist" />
         <item itemvalue="Application.DuplicateEncoder" />
-        <item itemvalue="Application.EnoughIsEnough" />
       </list>
     </recent_temporary>
   </component>
@@ -94,13 +92,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00038" summary="BinaryArrayToNumber">
-      <created>1660403884426</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1660403884426</updated>
     </task>
     <task id="LOCAL-00039" summary="Meeting Coding Kata">
       <created>1660418175880</created>
@@ -438,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667468640914</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="BinaryAddition">
+      <created>1669109434200</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1669109434200</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -454,7 +452,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Square" />
     <MESSAGE value="PerfectPower" />
     <MESSAGE value="PickPeaks" />
     <MESSAGE value="RemoveDuplicateWords" />
@@ -479,6 +476,7 @@
     <MESSAGE value="NthSmallestElement" />
     <MESSAGE value="StringEndsWith" />
     <MESSAGE value="EnoughIsEnough" />
-    <option name="LAST_COMMIT_MESSAGE" value="EnoughIsEnough" />
+    <MESSAGE value="BinaryAddition" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinaryAddition" />
   </component>
 </project>
