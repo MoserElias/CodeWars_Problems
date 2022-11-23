@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="BinaryAddition">
-      <change afterPath="$PROJECT_DIR$/src/HighestProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindDevisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MexicanWave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +39,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.HighestProfit">
+  <component name="RunManager" selected="Application.MexicanWave">
     <configuration name="BallotsCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BallotsCounter" />
       <module name="Codewars_Problems" />
@@ -53,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateEncoder" />
+    <configuration name="FindDevisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindDevisor" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Persist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Persist" />
+    <configuration name="MexicanWave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MexicanWave" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MexicanWave" />
+        <item itemvalue="Application.FindDevisor" />
         <item itemvalue="Application.HighestProfit" />
         <item itemvalue="Application.BinaryAddition" />
         <item itemvalue="Application.BallotsCounter" />
-        <item itemvalue="Application.Persist" />
-        <item itemvalue="Application.DuplicateEncoder" />
       </list>
     </recent_temporary>
   </component>
