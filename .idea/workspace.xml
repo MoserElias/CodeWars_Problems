@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="BinaryAddition">
-      <change afterPath="$PROJECT_DIR$/src/FindDevisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MexicanWave.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="MexicanWave">
+      <change afterPath="$PROJECT_DIR$/src/StayNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,14 +48,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.MexicanWave">
-    <configuration name="BallotsCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BallotsCounter" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StayNumber">
     <configuration name="BinaryAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryAddition" />
       <module name="Codewars_Problems" />
@@ -77,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StayNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StayNumber" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StayNumber" />
         <item itemvalue="Application.MexicanWave" />
         <item itemvalue="Application.FindDevisor" />
         <item itemvalue="Application.HighestProfit" />
         <item itemvalue="Application.BinaryAddition" />
-        <item itemvalue="Application.BallotsCounter" />
       </list>
     </recent_temporary>
   </component>
@@ -95,13 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Meeting Coding Kata">
-      <created>1660418175880</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1660418175880</updated>
     </task>
     <task id="LOCAL-00040" summary="Isograms">
       <created>1660470164354</created>
@@ -439,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669109434200</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="MexicanWave">
+      <created>1669200058780</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1669200058781</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="PerfectPower" />
     <MESSAGE value="PickPeaks" />
     <MESSAGE value="RemoveDuplicateWords" />
     <MESSAGE value="Metro, count passengers" />
@@ -480,6 +486,7 @@
     <MESSAGE value="StringEndsWith" />
     <MESSAGE value="EnoughIsEnough" />
     <MESSAGE value="BinaryAddition" />
-    <option name="LAST_COMMIT_MESSAGE" value="BinaryAddition" />
+    <MESSAGE value="MexicanWave" />
+    <option name="LAST_COMMIT_MESSAGE" value="MexicanWave" />
   </component>
 </project>
