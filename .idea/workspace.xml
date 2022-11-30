@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="MexicanWave">
-      <change afterPath="$PROJECT_DIR$/src/StayNumber.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="StayNumber">
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindMissingLetter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +49,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.StayNumber">
-    <configuration name="BinaryAddition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryAddition" />
+  <component name="RunManager" selected="Application.FindMissingLetter">
+    <configuration name="ArithmeticFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArithmeticFunction" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighestProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HighestProfit" />
+    <configuration name="FindMissingLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMissingLetter" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMissingLetter" />
+        <item itemvalue="Application.ArithmeticFunction" />
         <item itemvalue="Application.StayNumber" />
         <item itemvalue="Application.MexicanWave" />
         <item itemvalue="Application.FindDevisor" />
-        <item itemvalue="Application.HighestProfit" />
-        <item itemvalue="Application.BinaryAddition" />
       </list>
     </recent_temporary>
   </component>
@@ -102,13 +103,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Isograms">
-      <created>1660470164354</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1660470164354</updated>
     </task>
     <task id="LOCAL-00041" summary="AscendDescend">
       <created>1660473069740</created>
@@ -446,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669200058781</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="StayNumber">
+      <created>1669403768024</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1669403768024</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +463,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="PickPeaks" />
     <MESSAGE value="RemoveDuplicateWords" />
     <MESSAGE value="Metro, count passengers" />
     <MESSAGE value="Sum Of Interval" />
@@ -487,6 +487,7 @@
     <MESSAGE value="EnoughIsEnough" />
     <MESSAGE value="BinaryAddition" />
     <MESSAGE value="MexicanWave" />
-    <option name="LAST_COMMIT_MESSAGE" value="MexicanWave" />
+    <MESSAGE value="StayNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="StayNumber" />
   </component>
 </project>
