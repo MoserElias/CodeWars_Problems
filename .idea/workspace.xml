@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Coding Katas from Today">
-      <change afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Permutations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Application.Permutations">
     <configuration name="ArithmeticFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -102,13 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00042" summary="AscendDescend">
-      <created>1660496930693</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1660496930693</updated>
     </task>
     <task id="LOCAL-00043" summary="LengthAndTwoValues">
       <created>1660566683230</created>
@@ -446,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669795235338</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Permutations">
+      <created>1671643193346</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1671643193346</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Sum Of Interval" />
     <MESSAGE value="HandshakeProblem" />
     <MESSAGE value="TriangleTester" />
     <MESSAGE value="SumPostiveNegative" />
@@ -487,6 +486,7 @@
     <MESSAGE value="StayNumber" />
     <MESSAGE value="Coding Catas from Today" />
     <MESSAGE value="Coding Katas from Today" />
-    <option name="LAST_COMMIT_MESSAGE" value="Coding Katas from Today" />
+    <MESSAGE value="Permutations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Permutations" />
   </component>
 </project>

@@ -2,33 +2,45 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-import java.util.stream.Collectors;
 
 public class Permutations {
 
     public static List<String> singlePermutations(String s) {
-        //base cases
-        if (s.length() == 0) {
-            List<String> empty = new ArrayList<>();
-            empty.add("");
-            return empty;
+        Set<String> resStrings = permutationFinder(s);
+
+        List<String> finalResult = new ArrayList<>();
+        for (String value : resStrings) {
+            finalResult.add(value);
         }
+        return finalResult;
+    }
 
-        List<String> prevResult = singlePermutations(s.substring(1));
-        List<String> result = new ArrayList<>();
-
-        for (String value : prevResult) {
-            for (int i = 0; i <= value.length(); i++) {
-                result.add(value.substring(0, i) + s.charAt(0) + value.substring(i));
+    public static Set<String> permutationFinder(String str) {
+        Set<String> perm = new HashSet<>();
+        //Handling error scenarios
+        if (str == null) {
+            return null;
+        } else if (str.length() == 0) {
+            perm.add("");
+            return perm;
+        }
+        char initial = str.charAt(0); // first character
+        String rem = str.substring(1); // Full string without first character
+        Set<String> words = permutationFinder(rem);
+        for (String strNew : words) {
+            for (int i = 0; i <= strNew.length(); i++) {
+                perm.add(charInsert(strNew, initial, i));
             }
         }
-        return result(result);
+        return perm;
     }
 
-    private static List<String> result(List<String> input) {
-
-        System.out.println(listWithoutDuplicates);
+    public static String charInsert(String str, char c, int j) {
+        String begin = str.substring(0, j);
+        String end = str.substring(j);
+        return begin + c + end;
     }
+
 
     public static void main(String[] args) {
         System.out.println(singlePermutations("aabb"));
