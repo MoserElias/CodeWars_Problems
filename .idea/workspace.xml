@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Changes to High and low">
-      <change afterPath="$PROJECT_DIR$/src/LongestConsec.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="LongestConsec">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,13 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00046" summary="DuplicateEncoder">
-      <created>1660627413763</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1660627413763</updated>
     </task>
     <task id="LOCAL-00047" summary="MaxProduct.java">
       <created>1661262337335</created>
@@ -446,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671778240842</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="LongestConsec">
+      <created>1671786100351</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1671786100351</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="SumPostiveNegative" />
     <MESSAGE value="SumPostiveNegative update" />
     <MESSAGE value="update" />
     <MESSAGE value="GenerateShape" />
@@ -487,6 +486,7 @@
     <MESSAGE value="Permutations" />
     <MESSAGE value="Commit" />
     <MESSAGE value="Changes to High and low" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes to High and low" />
+    <MESSAGE value="LongestConsec" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestConsec" />
   </component>
 </project>
