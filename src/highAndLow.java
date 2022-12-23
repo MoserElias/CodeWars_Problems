@@ -9,10 +9,10 @@ public class highAndLow {
         int min = Integer.MAX_VALUE;
         String result = "";
         for (int i = 0; i < arr.length; i++) {
-            if(arr[i] > max) {
+            if (arr[i] > max) {
                 max = arr[i];
             }
-            if(arr[i] < min) {
+            if (arr[i] < min) {
                 min = arr[i];
             }
         }
