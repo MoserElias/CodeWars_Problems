@@ -1,9 +1,9 @@
 public class JadenCasingStrings {
     public static String toJadenCase(String phrase) {
 
-        if(phrase == null) {
+        if (phrase == null) {
             return null;
-        } else if(phrase.isBlank() || phrase.isEmpty())  {
+        } else if (phrase.isBlank() || phrase.isEmpty()) {
             return null;
         }
 

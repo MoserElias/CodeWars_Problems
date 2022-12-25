@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="LongestConsec">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Edit gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JadenCasingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JadenCasingStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +48,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.LongestConsec">
-    <configuration name="ArithmeticFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArithmeticFunction" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMissingLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindMissingLetter" />
+  <component name="RunManager" selected="Application.JadenCasingStrings">
+    <configuration name="JadenCasingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JadenCasingStrings" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,6 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoToOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoToOne" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="highAndLow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="highAndLow" />
       <module name="Codewars_Problems" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JadenCasingStrings" />
+        <item itemvalue="Application.TwoToOne" />
         <item itemvalue="Application.LongestConsec" />
         <item itemvalue="Application.highAndLow" />
         <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.FindMissingLetter" />
-        <item itemvalue="Application.ArithmeticFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -102,13 +102,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00047" summary="MaxProduct.java">
-      <created>1661262337335</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1661262337335</updated>
     </task>
     <task id="LOCAL-00048" summary="VowelCount">
       <created>1661586080189</created>
@@ -446,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671786100351</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Edit gitignore">
+      <created>1671798579445</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1671798579445</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="SumPostiveNegative update" />
     <MESSAGE value="update" />
     <MESSAGE value="GenerateShape" />
     <MESSAGE value="SumOfNumbers" />
@@ -487,6 +486,7 @@
     <MESSAGE value="Commit" />
     <MESSAGE value="Changes to High and low" />
     <MESSAGE value="LongestConsec" />
-    <option name="LAST_COMMIT_MESSAGE" value="LongestConsec" />
+    <MESSAGE value="Edit gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit gitignore" />
   </component>
 </project>
