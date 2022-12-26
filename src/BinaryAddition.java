@@ -9,5 +9,5 @@ public class BinaryAddition {
     public static void main(String[] args) {
         System.out.println(binaryAddition(1, 1));
     }
-}
 
+}
