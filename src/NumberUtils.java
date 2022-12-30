@@ -1,9 +1,10 @@
 public class NumberUtils {
 
     public static boolean isNarcisstic(int number) {
-        //watch out for to many print outs when submitting the code to codewars!
+        //watch out for to many prints outs when submitting the code to codewars!
         String num = String.valueOf(number);
         char[] digits = num.toCharArray();
+
         int power = digits.length;
         int sum = 0;
         for (char val : digits) {

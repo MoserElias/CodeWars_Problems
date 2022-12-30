@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Order CodingKata">
-      <change afterPath="$PROJECT_DIR$/src/NumberUtils.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="NumberUtils.java">
+      <change afterPath="$PROJECT_DIR$/src/BraceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BraceChecker2nd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +47,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaHeadFirst" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.NumberUtils">
-    <configuration name="BouncingBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BouncingBall" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BraceChecker2nd">
+    <configuration name="BraceChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BraceChecker" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BraceChecker2nd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BraceChecker2nd" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,20 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringSplit" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BraceChecker2nd" />
+        <item itemvalue="Application.BraceChecker" />
         <item itemvalue="Application.NumberUtils" />
         <item itemvalue="Application.Order" />
         <item itemvalue="Application.CountSmileyFaces" />
-        <item itemvalue="Application.StringSplit" />
-        <item itemvalue="Application.BouncingBall" />
       </list>
     </recent_temporary>
   </component>
@@ -102,13 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00054" summary="TowerBuilder">
-      <created>1661963281074</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1661963281074</updated>
     </task>
     <task id="LOCAL-00055" summary="Katas from 01.09.22">
       <created>1662011336204</created>
@@ -446,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672244937648</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="NumberUtils.java">
+      <created>1672318811395</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1672318811396</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +469,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ReverseWords" />
     <MESSAGE value="MultiTable" />
     <MESSAGE value="ConvertToBinary" />
     <MESSAGE value="Dinglemouse" />
@@ -487,6 +493,7 @@
     <MESSAGE value="StringSplit new Solution" />
     <MESSAGE value="CountSmileyFaces.java" />
     <MESSAGE value="Order CodingKata" />
-    <option name="LAST_COMMIT_MESSAGE" value="Order CodingKata" />
+    <MESSAGE value="NumberUtils.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberUtils.java" />
   </component>
 </project>
