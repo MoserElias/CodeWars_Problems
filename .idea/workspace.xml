@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="BraceChecker">
-      <change afterPath="$PROJECT_DIR$/src/Diamond.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Diamond">
+      <change afterPath="$PROJECT_DIR$/src/LineNumbering.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Diamond">
+  <component name="RunManager" selected="Application.LineNumbering">
     <configuration name="BraceChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BraceChecker" />
       <module name="Codewars_Problems" />
@@ -75,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LineNumbering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineNumbering" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberUtils" />
       <module name="Codewars_Problems" />
@@ -82,20 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Order" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LineNumbering" />
         <item itemvalue="Application.Diamond" />
         <item itemvalue="Application.BraceChecker2nd" />
         <item itemvalue="Application.BraceChecker" />
         <item itemvalue="Application.NumberUtils" />
-        <item itemvalue="Application.Order" />
       </list>
     </recent_temporary>
   </component>
@@ -107,13 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00056" summary="RgbToHex">
-      <created>1662042646835</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1662042646835</updated>
     </task>
     <task id="LOCAL-00057" summary="Coding Katas 02.09">
       <created>1662096911197</created>
@@ -451,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672401669188</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Diamond">
+      <created>1672478474421</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1672478474421</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +467,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ConvertToBinary" />
     <MESSAGE value="Dinglemouse" />
     <MESSAGE value="Calc Sum Coding Kata" />
     <MESSAGE value="ProdFib" />
@@ -492,6 +491,7 @@
     <MESSAGE value="Order CodingKata" />
     <MESSAGE value="NumberUtils.java" />
     <MESSAGE value="BraceChecker" />
-    <option name="LAST_COMMIT_MESSAGE" value="BraceChecker" />
+    <MESSAGE value="Diamond" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diamond" />
   </component>
 </project>
