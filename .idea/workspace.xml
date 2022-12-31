@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="NumberUtils.java">
-      <change afterPath="$PROJECT_DIR$/src/BraceChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BraceChecker2nd.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="BraceChecker">
+      <change afterPath="$PROJECT_DIR$/src/Diamond.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BraceChecker2nd">
+  <component name="RunManager" selected="Application.Diamond">
     <configuration name="BraceChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BraceChecker" />
       <module name="Codewars_Problems" />
@@ -70,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountSmileyFaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountSmileyFaces" />
+    <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Diamond" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Diamond" />
         <item itemvalue="Application.BraceChecker2nd" />
         <item itemvalue="Application.BraceChecker" />
         <item itemvalue="Application.NumberUtils" />
         <item itemvalue="Application.Order" />
-        <item itemvalue="Application.CountSmileyFaces" />
       </list>
     </recent_temporary>
   </component>
@@ -109,13 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Katas from 01.09.22">
-      <created>1662011336204</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1662011336204</updated>
     </task>
     <task id="LOCAL-00056" summary="RgbToHex">
       <created>1662042646835</created>
@@ -453,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672318811396</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="BraceChecker">
+      <created>1672401669187</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1672401669188</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +467,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="MultiTable" />
     <MESSAGE value="ConvertToBinary" />
     <MESSAGE value="Dinglemouse" />
     <MESSAGE value="Calc Sum Coding Kata" />
@@ -494,6 +491,7 @@
     <MESSAGE value="CountSmileyFaces.java" />
     <MESSAGE value="Order CodingKata" />
     <MESSAGE value="NumberUtils.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumberUtils.java" />
+    <MESSAGE value="BraceChecker" />
+    <option name="LAST_COMMIT_MESSAGE" value="BraceChecker" />
   </component>
 </project>
