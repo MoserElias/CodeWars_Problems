@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Diamond">
-      <change afterPath="$PROJECT_DIR$/src/LineNumbering.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Last Commit to Github in 2022 - 31.12.2022 17:17">
+      <change afterPath="$PROJECT_DIR$/src/WhoLikesIt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LineNumbering">
+  <component name="RunManager" selected="Application.WhoLikesIt">
     <configuration name="BraceChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BraceChecker" />
       <module name="Codewars_Problems" />
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberUtils" />
+    <configuration name="WhoLikesIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhoLikesIt" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhoLikesIt" />
         <item itemvalue="Application.LineNumbering" />
         <item itemvalue="Application.Diamond" />
         <item itemvalue="Application.BraceChecker2nd" />
         <item itemvalue="Application.BraceChecker" />
-        <item itemvalue="Application.NumberUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -107,13 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Coding Katas 02.09">
-      <created>1662096911197</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1662096911198</updated>
     </task>
     <task id="LOCAL-00058" summary="FindShortestWord">
       <created>1662461686352</created>
@@ -451,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672478474421</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Last Commit to Github in 2022 - 31.12.2022 17:17">
+      <created>1672503441478</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1672503441478</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +467,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Dinglemouse" />
     <MESSAGE value="Calc Sum Coding Kata" />
     <MESSAGE value="ProdFib" />
     <MESSAGE value="NthSmallestElement" />
@@ -492,6 +491,7 @@
     <MESSAGE value="NumberUtils.java" />
     <MESSAGE value="BraceChecker" />
     <MESSAGE value="Diamond" />
-    <option name="LAST_COMMIT_MESSAGE" value="Diamond" />
+    <MESSAGE value="Last Commit to Github in 2022 - 31.12.2022 17:17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last Commit to Github in 2022 - 31.12.2022 17:17" />
   </component>
 </project>
