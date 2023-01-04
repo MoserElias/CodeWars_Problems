@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Last Commit to Github in 2022 - 31.12.2022 17:17">
-      <change afterPath="$PROJECT_DIR$/src/WhoLikesIt.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="WhoLikesIt Codewars Cata">
+      <change afterPath="$PROJECT_DIR$/src/AreSame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,9 +53,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WhoLikesIt">
-    <configuration name="BraceChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BraceChecker" />
+  <component name="RunManager" selected="Application.AreSame">
+    <configuration name="AreSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreSame" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AreSame" />
         <item itemvalue="Application.WhoLikesIt" />
         <item itemvalue="Application.LineNumbering" />
         <item itemvalue="Application.Diamond" />
         <item itemvalue="Application.BraceChecker2nd" />
-        <item itemvalue="Application.BraceChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -107,13 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00058" summary="FindShortestWord">
-      <created>1662461686352</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1662461686353</updated>
     </task>
     <task id="LOCAL-00059" summary="Factorial Recursive">
       <created>1662618613436</created>
@@ -451,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672503441478</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="WhoLikesIt Codewars Cata">
+      <created>1672733182190</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1672733182191</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +467,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Calc Sum Coding Kata" />
     <MESSAGE value="ProdFib" />
     <MESSAGE value="NthSmallestElement" />
     <MESSAGE value="StringEndsWith" />
@@ -492,6 +491,7 @@
     <MESSAGE value="BraceChecker" />
     <MESSAGE value="Diamond" />
     <MESSAGE value="Last Commit to Github in 2022 - 31.12.2022 17:17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Last Commit to Github in 2022 - 31.12.2022 17:17" />
+    <MESSAGE value="WhoLikesIt Codewars Cata" />
+    <option name="LAST_COMMIT_MESSAGE" value="WhoLikesIt Codewars Cata" />
   </component>
 </project>
