@@ -1,48 +1,28 @@
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class AreSame {
 
     public static boolean comp(int[] a, int[] b) {
 
-        if (a.length == 0 || b.length == 0) {
-            return false;
-        } else if (a.length != b.length) {
-            return false;
-        }
+        if (a == null || b == null) return false;
+        if (a.length != b.length) return false;
 
         for (int i = 0; i < a.length; i++) {
             a[i] = a[i] * a[i];
         }
-        System.out.println("a = " + Arrays.toString(a));
-        System.out.println("b = " + Arrays.toString(b));
 
-        //crate lists of the elements to delete them after we found one
-        List<Integer> aL = new ArrayList<>();
-        List<Integer> bL = new ArrayList<>();
-        for (int value : a) {
-            aL.add(value);
-        }
-        for (int value : b) {
-            bL.add(value);
-        }
+        //sort both arrays
+        Arrays.sort(a);
+        Arrays.sort(b);
 
-        //now check if we have the same arrays
-        for (int i = 0; i < aL.size(); i++) {
-            for (int j = 0; j < bL.size(); j++) {
-                if (aL.get(i).equals(bL.get(j))) {
-                    bL.remove(j);
-                    break;
-                }
+        //search if different
+        for (int i = 0; i < a.length; i++) {
+            if (a[i] != b[i]) {
+                return false;
             }
         }
 
-        if (bL.size() == 0) {
-            return true;
-        }
-
-        return false;
+        return true;
     }
 
     public static void main(String[] args) {
