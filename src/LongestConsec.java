@@ -1,30 +1,38 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class LongestConsec {
     public static String longestConsec(String[] strarr, int k) {
-        if (k <= 0) {
+        List<String> result = new ArrayList<>();
+
+        if (strarr.length == 0 || k > strarr.length || k <= 0) {
             return "";
         }
-        String longest = "";
-        for (int i = strarr.length - 1; i >= 0; i--) {
-            String toTest = strarr[i];
-            for (int j = strarr.length - 1; j >= 0; j--) {
-                if (i != j && !strarr[i].equals(strarr[j])) {
-                    for (int l = j; l < j + (k - 1); l++) {
-                        toTest += strarr[j];
-                    }
-                    if (longest.length() <= toTest.length()) { //if toTest is longer then longest, then replace longest
-                        longest = toTest;
-                        toTest = strarr[i];
-                    } else {
-                        toTest = strarr[i]; //else we have to reset our test String for the next possible version
-                    }
+
+        String toConcat;
+        for (int i = 0; i < strarr.length; i++) {
+            toConcat = "";
+            for (int j = 0; j < k; j++) {
+                if (i + j >= strarr.length) {
+                    break;
                 }
+                toConcat += strarr[i + j];
+            }
+            result.add(toConcat);
+        }
+
+        String res = "";
+        for (String value : result) {
+            if (value.length() > res.length()) {
+                res = value;
             }
         }
-        return longest;
+
+        return res;
     }
 
     public static void main(String[] args) {
-        String[] strarr = {"zone", "abigail", "theta", "form", "libe", "zas", "theta", "abigail"};
+        String[] strarr = {"tree", "foling", "trashy", "blue", "abcdef", "uvwxyz"};
         int k = 2;
         System.out.println(longestConsec(strarr, k));
     }
