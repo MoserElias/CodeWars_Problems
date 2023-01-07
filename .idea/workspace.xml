@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Consec Strings">
-      <change afterPath="$PROJECT_DIR$/src/DontGiveFive.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Setup DontGiveFive">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DontGiveFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DontGiveFive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestConsec">
+  <component name="RunManager" selected="Application.DontGiveFive">
     <configuration name="AreSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreSame" />
       <module name="Codewars_Problems" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diamond" />
+    <configuration name="DontGiveFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DontGiveFive" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DontGiveFive" />
         <item itemvalue="Application.LongestConsec" />
         <item itemvalue="Application.AreSame" />
         <item itemvalue="Application.WhoLikesIt" />
         <item itemvalue="Application.LineNumbering" />
-        <item itemvalue="Application.Diamond" />
       </list>
     </recent_temporary>
   </component>
@@ -107,13 +107,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00062" summary="Square">
-      <created>1662806471776</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1662806471776</updated>
     </task>
     <task id="LOCAL-00063" summary="PerfectPower">
       <created>1662921478972</created>
@@ -451,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672916469981</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Setup DontGiveFive">
+      <created>1673024514513</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1673024514513</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +467,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="EnoughIsEnough" />
     <MESSAGE value="BinaryAddition" />
     <MESSAGE value="MexicanWave" />
     <MESSAGE value="StayNumber" />
@@ -492,6 +491,7 @@
     <MESSAGE value="int array are the same? kata" />
     <MESSAGE value="Update AreSame Solution" />
     <MESSAGE value="Consec Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Consec Strings" />
+    <MESSAGE value="Setup DontGiveFive" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup DontGiveFive" />
   </component>
 </project>
