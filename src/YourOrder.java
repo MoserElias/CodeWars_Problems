@@ -6,7 +6,7 @@ public class YourOrder {
         String[] temp = words.split(" ");
 
         for (int i = 0; i < temp.length; i++) {
-            //Save the current string from the String array
+            // Save the current string from the String array
             String temporary = temp[i];
             for (int j = 0; j < temporary.length(); j++) {
                 if (temporary.charAt(j) == indexString) {
