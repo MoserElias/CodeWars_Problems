@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="StayNumber">
-      <change afterPath="$PROJECT_DIR$/src/ArithmeticFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindMissingLetter.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="ReverseLetter">
+      <change afterPath="$PROJECT_DIR$/src/ShiftingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -43,22 +43,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunManager" selected="Application.FindMissingLetter">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/Elias/Development/Codewars_Problems",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ShiftingArray">
     <configuration name="ArithmeticFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticFunction" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindDevisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindDevisor" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,6 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShiftingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShiftingArray" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StayNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StayNumber" />
       <module name="Codewars_Problems" />
@@ -87,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShiftingArray" />
         <item itemvalue="Application.FindMissingLetter" />
         <item itemvalue="Application.ArithmeticFunction" />
         <item itemvalue="Application.StayNumber" />
         <item itemvalue="Application.MexicanWave" />
-        <item itemvalue="Application.FindDevisor" />
       </list>
     </recent_temporary>
   </component>
@@ -103,20 +103,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00041" summary="AscendDescend">
-      <created>1660473069740</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1660473069740</updated>
-    </task>
-    <task id="LOCAL-00042" summary="AscendDescend">
-      <created>1660496930693</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1660496930693</updated>
     </task>
     <task id="LOCAL-00043" summary="LengthAndTwoValues">
       <created>1660566683230</created>
@@ -447,7 +433,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669403768024</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="ReverseLetter">
+      <created>1673517953504</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1673517953504</updated>
+    </task>
+    <task id="LOCAL-00091" summary="ReverseLetter">
+      <created>1673518009474</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1673518009474</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -463,7 +463,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="RemoveDuplicateWords" />
     <MESSAGE value="Metro, count passengers" />
     <MESSAGE value="Sum Of Interval" />
     <MESSAGE value="HandshakeProblem" />
@@ -488,6 +487,7 @@
     <MESSAGE value="BinaryAddition" />
     <MESSAGE value="MexicanWave" />
     <MESSAGE value="StayNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="StayNumber" />
+    <MESSAGE value="ReverseLetter" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReverseLetter" />
   </component>
 </project>
