@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="ReverseLetter">
-      <change afterPath="$PROJECT_DIR$/src/ShiftingArray.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="ShiftingArray">
+      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/Elias/Development/Codewars_Problems",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Elias/Development/Codewars_Problems&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ShiftingArray">
+}</component>
+  <component name="RunManager" selected="Application.TwoSum">
     <configuration name="ArithmeticFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticFunction" />
       <module name="Codewars_Problems" />
@@ -59,13 +60,6 @@
     </configuration>
     <configuration name="FindMissingLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindMissingLetter" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MexicanWave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MexicanWave" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,13 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSum" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.ShiftingArray" />
         <item itemvalue="Application.FindMissingLetter" />
         <item itemvalue="Application.ArithmeticFunction" />
         <item itemvalue="Application.StayNumber" />
-        <item itemvalue="Application.MexicanWave" />
       </list>
     </recent_temporary>
   </component>
@@ -103,13 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00043" summary="LengthAndTwoValues">
-      <created>1660566683230</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1660566683230</updated>
     </task>
     <task id="LOCAL-00044" summary="FindOutlier">
       <created>1660568307297</created>
@@ -447,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673518009474</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="ShiftingArray">
+      <created>1673613186746</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1673613186747</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -463,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Metro, count passengers" />
     <MESSAGE value="Sum Of Interval" />
     <MESSAGE value="HandshakeProblem" />
     <MESSAGE value="TriangleTester" />
@@ -488,6 +488,7 @@
     <MESSAGE value="MexicanWave" />
     <MESSAGE value="StayNumber" />
     <MESSAGE value="ReverseLetter" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseLetter" />
+    <MESSAGE value="ShiftingArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="ShiftingArray" />
   </component>
 </project>
