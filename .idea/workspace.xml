@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="ShiftingArray">
-      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="TwoSum.java">
+      <change afterPath="$PROJECT_DIR$/src/FindNextSquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,14 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Elias/Development/Codewars_Problems&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Elias/Development/Codewars_Problems",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.TwoSum">
+}]]></component>
+  <component name="RunManager" selected="Application.FindNextSquare">
     <configuration name="ArithmeticFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticFunction" />
       <module name="Codewars_Problems" />
@@ -65,15 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShiftingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShiftingArray" />
+    <configuration name="FindNextSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindNextSquare" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StayNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StayNumber" />
+    <configuration name="ShiftingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShiftingArray" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindNextSquare" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.ShiftingArray" />
         <item itemvalue="Application.FindMissingLetter" />
         <item itemvalue="Application.ArithmeticFunction" />
-        <item itemvalue="Application.StayNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -104,13 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00044" summary="FindOutlier">
-      <created>1660568307297</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1660568307297</updated>
     </task>
     <task id="LOCAL-00045" summary="Maskify">
       <created>1660626197172</created>
@@ -448,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673613186747</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="TwoSum.java">
+      <created>1673801295765</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1673801295765</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Sum Of Interval" />
     <MESSAGE value="HandshakeProblem" />
     <MESSAGE value="TriangleTester" />
     <MESSAGE value="SumPostiveNegative" />
@@ -489,6 +488,7 @@
     <MESSAGE value="StayNumber" />
     <MESSAGE value="ReverseLetter" />
     <MESSAGE value="ShiftingArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="ShiftingArray" />
+    <MESSAGE value="TwoSum.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="TwoSum.java" />
   </component>
 </project>
