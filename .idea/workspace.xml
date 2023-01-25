@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="LargestFiveDigitNumberTest.java">
-      <change afterPath="$PROJECT_DIR$/src/RoundToTheNextMultipleOf5.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Round To next Multiple of 5 kata">
+      <change afterPath="$PROJECT_DIR$/src/MaxDiffLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RoundToTheNextMultipleOf5">
+  <component name="RunManager" selected="Application.MaxDiffLength">
     <configuration name="FindNextSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindNextSquare" />
       <module name="Codewars_Problems" />
@@ -65,15 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RoundToTheNextMultipleOf5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RoundToTheNextMultipleOf5" />
+    <configuration name="MaxDiffLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxDiffLength" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShiftingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShiftingArray" />
+    <configuration name="RoundToTheNextMultipleOf5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RoundToTheNextMultipleOf5" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxDiffLength" />
         <item itemvalue="Application.RoundToTheNextMultipleOf5" />
         <item itemvalue="Application.LargestFiveDigitNumberTest" />
         <item itemvalue="Application.FindNextSquare" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.ShiftingArray" />
       </list>
     </recent_temporary>
   </component>
@@ -104,13 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00047" summary="MaxProduct.java">
-      <created>1661262337335</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1661262337335</updated>
     </task>
     <task id="LOCAL-00048" summary="VowelCount">
       <created>1661586080189</created>
@@ -448,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673961429002</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Round To next Multiple of 5 kata">
+      <created>1674292823081</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1674292823081</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="SumPostiveNegative" />
     <MESSAGE value="SumPostiveNegative update" />
     <MESSAGE value="update" />
     <MESSAGE value="GenerateShape" />
@@ -489,6 +488,7 @@
     <MESSAGE value="TwoSum.java" />
     <MESSAGE value="FindNextSquare" />
     <MESSAGE value="LargestFiveDigitNumberTest.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="LargestFiveDigitNumberTest.java" />
+    <MESSAGE value="Round To next Multiple of 5 kata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Round To next Multiple of 5 kata" />
   </component>
 </project>
