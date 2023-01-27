@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Round To next Multiple of 5 kata">
-      <change afterPath="$PROJECT_DIR$/src/MaxDiffLength.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Max Diff Length">
+      <change afterPath="$PROJECT_DIR$/src/DeadFish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,14 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Elias/Development/Codewars_Problems",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Elias/Development/Codewars_Problems&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MaxDiffLength">
+}</component>
+  <component name="RunManager" selected="Application.DeadFish">
+    <configuration name="DeadFish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeadFish" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindNextSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindNextSquare" />
       <module name="Codewars_Problems" />
@@ -79,20 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSum" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeadFish" />
         <item itemvalue="Application.MaxDiffLength" />
         <item itemvalue="Application.RoundToTheNextMultipleOf5" />
         <item itemvalue="Application.LargestFiveDigitNumberTest" />
         <item itemvalue="Application.FindNextSquare" />
-        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -104,13 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00048" summary="VowelCount">
-      <created>1661586080189</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1661586080189</updated>
     </task>
     <task id="LOCAL-00049" summary="SortTheOdd">
       <created>1661594300171</created>
@@ -448,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674292823081</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Max Diff Length">
+      <created>1674633617802</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1674633617802</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="SumPostiveNegative update" />
     <MESSAGE value="update" />
     <MESSAGE value="GenerateShape" />
     <MESSAGE value="SumOfNumbers" />
@@ -489,6 +488,7 @@
     <MESSAGE value="FindNextSquare" />
     <MESSAGE value="LargestFiveDigitNumberTest.java" />
     <MESSAGE value="Round To next Multiple of 5 kata" />
-    <option name="LAST_COMMIT_MESSAGE" value="Round To next Multiple of 5 kata" />
+    <MESSAGE value="Max Diff Length" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max Diff Length" />
   </component>
 </project>
