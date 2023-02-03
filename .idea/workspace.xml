@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Fix String Case">
-      <change afterPath="$PROJECT_DIR$/src/ReversedParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="ReversedParenthesis">
+      <change beforePath="$PROJECT_DIR$/src/ReversedParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReversedParenthesis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,13 +103,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00051" summary="RemoveVowels">
-      <created>1661778411214</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1661778411214</updated>
     </task>
     <task id="LOCAL-00052" summary="BreakCamelCase">
       <created>1661841931364</created>
@@ -448,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675109143336</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="ReversedParenthesis">
+      <created>1675442048387</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1675442048387</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +463,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="GenerateShape" />
     <MESSAGE value="SumOfNumbers" />
     <MESSAGE value="CamelCase" />
     <MESSAGE value="NthSeries" />
@@ -489,17 +487,7 @@
     <MESSAGE value="Round To next Multiple of 5 kata" />
     <MESSAGE value="Max Diff Length" />
     <MESSAGE value="Fix String Case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix String Case" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ReversedParenthesis.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="ReversedParenthesis" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReversedParenthesis" />
   </component>
 </project>
