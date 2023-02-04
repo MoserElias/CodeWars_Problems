@@ -38,6 +38,6 @@ public class StringIncrement {
 
 
     public static void main(String[] args) {
-        System.out.println(incrementString("foobar23"));
+        System.out.println(incrementString("foobar000"));
     }
 }

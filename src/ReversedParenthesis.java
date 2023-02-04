@@ -10,6 +10,7 @@ public class ReversedParenthesis {
         System.out.println(s); //now only contains invalid parethesis
         int counter = 0;
 
+
         for (int i = 1; i < s.length(); i += 2) {
             if (s.charAt(i - 1) == s.charAt(i)) {
                 counter++;
@@ -17,7 +18,6 @@ public class ReversedParenthesis {
                 counter += 2;
             }
         }
-
 
         return counter;
     }
