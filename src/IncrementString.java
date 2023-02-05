@@ -1,40 +1,41 @@
+import java.math.BigInteger;
+
 public class IncrementString {
 
     public static String incrementString(String str) {
-        //if the string ends with a number, increment the number by one
-        String result = "";
-        if (Character.isDigit(str.charAt(str.length() - 1))) {
-            //search the number
-            String number = "";
-            String word = "";
-            for (int i = 0; i < str.length(); i++) {
-                if (Character.isDigit(str.charAt(i))) {
-                    number += str.charAt(i);
-                } else {
-                    word += str.charAt(i);
-                }
-            }
-            //save and increment this number
-            System.out.println(number);
-            int numRes = Integer.parseInt(number);
-            numRes++;
-            String numberNew = String.valueOf(numRes);
-            System.out.println(numberNew);
-
-            word += numberNew;
-            result = word;
-
-        } else {
-            for (int i = 0; i < str.length(); i++) {
-                result += str.charAt(i);
-            }
-            result += 1;
+        if (str.length() < 1) {
+            return str + 1;
         }
 
-        return result;
+        if (!Character.isDigit(str.charAt(str.length() - 1))) {
+            return str + "1";
+        }
+
+        String num = "";
+        int count = 0;
+
+        for (int i = str.length() - 1; i >= 0; i--) {
+            if (Character.isDigit(str.charAt(i))) {
+                num = str.charAt(i) + num;
+                count++;
+            } else {
+                break;
+            }
+        }
+
+        String subStr = str.substring(0, str.length() - num.length());
+        String numbs = new BigInteger(num).add(new BigInteger("1")).toString();
+
+        if (numbs.length() != count) {
+            int n = count - numbs.length();
+            for (int s = 0; s < n; s++) {
+                numbs = "0" + numbs;
+            }
+        }
+        return subStr + numbs;
     }
 
     public static void main(String[] args) {
-        System.out.println(incrementString("foobar"));
+        System.out.println(incrementString("foobar0001"));
     }
 }
