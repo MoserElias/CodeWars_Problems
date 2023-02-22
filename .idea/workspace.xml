@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Solution for IncrementString Codewars Kata">
-      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,13 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00054" summary="TowerBuilder">
-      <created>1661963281074</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1661963281074</updated>
     </task>
     <task id="LOCAL-00055" summary="Katas from 01.09.22">
       <created>1662011336204</created>
@@ -448,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675589246733</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Update">
+      <created>1677011292769</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1677011292769</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="CamelCase" />
     <MESSAGE value="NthSeries" />
     <MESSAGE value="NameTheNumber" />
     <MESSAGE value="ReverseWords" />
@@ -489,6 +488,7 @@
     <MESSAGE value="Fix String Case" />
     <MESSAGE value="ReversedParenthesis" />
     <MESSAGE value="Solution for IncrementString Codewars Kata" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution for IncrementString Codewars Kata" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
