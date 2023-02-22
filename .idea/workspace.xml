@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Update">
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="GGT Algorithmus einfach">
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +50,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GCD">
-    <configuration name="FixStringCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FixStringCase" />
-      <module name="Codewars_Problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MultiplicationTable">
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GCD" />
       <module name="Codewars_Problems" />
@@ -67,6 +60,13 @@
     </configuration>
     <configuration name="IncrementString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IncrementString" />
+      <module name="Codewars_Problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
       <module name="Codewars_Problems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.IncrementString" />
         <item itemvalue="Application.StringIncrement" />
         <item itemvalue="Application.ReversedParenthesis" />
-        <item itemvalue="Application.FixStringCase" />
       </list>
     </recent_temporary>
   </component>
@@ -104,13 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Katas from 01.09.22">
-      <created>1662011336204</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1662011336204</updated>
     </task>
     <task id="LOCAL-00056" summary="RgbToHex">
       <created>1662042646835</created>
@@ -448,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677011292769</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="GGT Algorithmus einfach">
+      <created>1677059256216</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1677059256216</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="NthSeries" />
     <MESSAGE value="NameTheNumber" />
     <MESSAGE value="ReverseWords" />
     <MESSAGE value="MultiTable" />
@@ -489,6 +488,7 @@
     <MESSAGE value="ReversedParenthesis" />
     <MESSAGE value="Solution for IncrementString Codewars Kata" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="GGT Algorithmus einfach" />
+    <option name="LAST_COMMIT_MESSAGE" value="GGT Algorithmus einfach" />
   </component>
 </project>
