@@ -2,23 +2,25 @@ public class FindMissingInt {
 
     public static int findMissing(int[] numbers) {
         int missingNum = 0;
-        //find the difference
-        int diff = numbers[1] - numbers[0];
-        System.out.println(diff);
-       /* if (numbers[2] - numbers[1] != diff) { //if the difference is not accurate for the first nums
-            diff = numbers[2] - numbers[1];
-        }*/
+        int diff = 0;
 
         for (int i = 0; i < numbers.length - 1; i++) {
-            if (numbers[i + 1] - numbers[i] != diff) {
-                missingNum = numbers[i] + 1;
-            }
+            diff = numbers[i + 1] - numbers[i];
         }
 
+        //find the difference
+        for (int i = 0; i < numbers.length - 1; i++) {
+            if (numbers[i] + diff != numbers[i + 1]) {
+                missingNum = numbers[i] + diff;
+            }
+        }
+        if (missingNum == 0) {
+            return numbers[0]; //if nothing is missing
+        }
         return missingNum;
     }
 
     public static void main(String[] args) {
-        System.out.println(findMissing(new int[]{1, 3, 4}));
+        System.out.println(findMissing(new int[]{1, 1, 1}));
     }
 }

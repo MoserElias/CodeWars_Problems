@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="findIncorrectValue">
-      <change afterPath="$PROJECT_DIR$/src/FindMissingInt.java" afterDir="false" />
+    <list default="true" id="b79e8899-6301-41c5-8184-7ed2f75e7b8d" name="Changes" comment="Codewars Kata">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindMissingInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindMissingInt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,13 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657293180851</updated>
-    </task>
-    <task id="LOCAL-00058" summary="FindShortestWord">
-      <created>1662461686352</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1662461686353</updated>
     </task>
     <task id="LOCAL-00059" summary="Factorial Recursive">
       <created>1662618613436</created>
@@ -448,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677225704195</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Codewars Kata">
+      <created>1678089189530</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1678089189530</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="MultiTable" />
     <MESSAGE value="ConvertToBinary" />
     <MESSAGE value="Dinglemouse" />
     <MESSAGE value="Calc Sum Coding Kata" />
@@ -489,6 +488,7 @@
     <MESSAGE value="GGT Algorithmus einfach" />
     <MESSAGE value="MultiplicationTable" />
     <MESSAGE value="findIncorrectValue" />
-    <option name="LAST_COMMIT_MESSAGE" value="findIncorrectValue" />
+    <MESSAGE value="Codewars Kata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codewars Kata" />
   </component>
 </project>
